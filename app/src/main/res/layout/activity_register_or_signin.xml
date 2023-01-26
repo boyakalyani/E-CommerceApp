@@ -131,6 +131,7 @@
             android:layout_height="wrap_content"
             android:background="@drawable/btn_bg"
             android:text="Sign Up"
+            android:enabled="true"
               android:textColor="@color/black"
         android:fontFamily="serif"
             android:layout_marginTop="40dp"

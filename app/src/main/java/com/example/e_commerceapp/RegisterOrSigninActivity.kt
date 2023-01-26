@@ -21,7 +21,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 
-@SuppressLint("Ckec")
+@SuppressLint("CheckResult")
 class RegisterOrSigninActivity : AppCompatActivity() {
     private lateinit var fullName: EditText
     private lateinit var emailEt: EditText
