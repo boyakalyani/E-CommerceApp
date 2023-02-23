@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">E-CommerceApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stop">Stop</string>
+    <string name="start">Start</string>
+    <string name="your_order_has_been_successfully_placed" />
+    <string name="ok" />
+    <string name="rating" />
+    <string name="sort" />
+    <string name="price_ascending" />
+    <string name="price_descending" />
+    <string name="home" />
+    <string name="my_profile" />
+    <string name="favourite_restaurants" />
+    <string name="order_history" />
+    <string name="faq_s" />
+    <string name="log_out" />
+    <!-- to toggle the open close button of the navigation drawer -->
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+
 </resources>

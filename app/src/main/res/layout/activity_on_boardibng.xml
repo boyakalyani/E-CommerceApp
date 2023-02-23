@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/frame_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OnBoardibng">
+    <Button
+        android:layout_gravity="top|end"
+        android:id="@+id/btnImg_id"
+        android:layout_width="40dp"
+        android:layout_height="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
+        android:text="Skip"
+        android:background="#ee5a5a"
+        android:textColor="@color/black"
+        />
+</FrameLayout>

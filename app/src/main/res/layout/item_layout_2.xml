@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="80dp"
-    android:layout_height="80dp"
-    android:layout_margin="10dp"
+    android:layout_width="40dp"
+    android:layout_height="40dp"
+    android:layout_margin="6dp"
     android:background="@android:color/white"
     android:orientation="vertical">
 
@@ -23,5 +23,6 @@
         android:layout_marginBottom="5dp"
         android:fontFamily="serif"
         android:text=""
+        android:textSize="6dp"
         android:textColor="@android:color/black" />
 </RelativeLayout>

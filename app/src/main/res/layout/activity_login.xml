@@ -69,6 +69,7 @@
                 android:background="@drawable/edit_text_bg"
             android:maxLines="1" />
 
+
             <TextView
                 android:id="@+id/emailError"
                 android:layout_width="match_parent"
